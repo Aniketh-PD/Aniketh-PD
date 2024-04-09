@@ -2,7 +2,7 @@
 <ul>
   <li> 👀 Passionate about various technologies involved in developing web applications </li>
   <li>🌱 Currently learning SpringBoot</li>
-  <li>💞️ Devveloping applications using Springboot to understand backend and related concepts</li>
+  <li>💞️ Developing applications using Springboot to understand backend and related concepts</li>
 
 </ul>
 <h3>Tech Stack</h3>
