@@ -1,15 +1,17 @@
 <h2> 👋 Hi there, I’m Aniketh </h2>
 <ul>
   <li> 👀 Passionate about various technologies involved in developing web applications </li>
-  <li>🌱 Currently learning React js </li>
-  <li>💞️ Working on a front end application to hone my javascript and react skills </li>
-  <li>📫 Would love to learn back end technologies to understand and develop full stack applications</li>
+  <li>🌱 Currently learning SpringBoot</li>
+  <li>💞️ Devveloping applications using Springboot to understand backend and related concepts</li>
+
 </ul>
 <h3>Tech Stack</h3>
 <ul>
   <li>JavaScript ES6 </li>
-  <li>HTML | CSS | React js</li>
-  <li>Microsoft SQL</li>
+  <li>HTML | CSS | React js | Next js</li>
+  <li>SQL</li>
+  <li>Java</li>
+  <li>SpringBoot</li>
   <li>Git</li>
 </ul>
 <h3>Connect with Me</h3>
